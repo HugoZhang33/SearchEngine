@@ -1,2 +1,2 @@
 # SearchEngine
-based on the Statistical Language Model
+based on the Probabilistic Retireval Model 
